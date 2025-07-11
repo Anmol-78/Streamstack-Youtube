@@ -4,8 +4,8 @@ This repository houses the backend implementation for a StreamStack (YouTube-Twi
 
 ## References
 
-- [Data Modeling](https://documenter.getpostman.com/view/33297672/2sA2xmTVL8) - Link to Data Modeling Documentation
-- [API Documentation](https://hari-4546075.postman.co/workspace/Hari's-Workspace~f698e61c-8e8d-47b2-8d07-fcb17213e0f2/collection/46480544-41e15bf5-e6ad-463c-a149-cf5386a269af?action=share&creator=46480544&active-environment=46480544-7457061d-71b0-4117-8118-59f724b61280) - Link to API Documentation
+- [Data Modeling](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj) - Link to Data Modeling Documentation
+- [API Documentation](https://documenter.getpostman.com/view/33297672/2sA2xmTVL8) - Link to API Documentation
 
 ## Tech Stack
 
