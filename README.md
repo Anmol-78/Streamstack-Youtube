@@ -63,19 +63,19 @@ CLOUDINARY_API_SECRET = [Your Cloudinary API Secret]
 FRONTEND_URL = [your Frontend URL]
 ```
 ### env variable for the frontend folder
-
-
-## How to Use
 ```js
 VITE_BACKEND_BASE_URL = [your backend url]
 ```
+
+## How to Use
+
 1. Clone the repository:
     ```bash
     git clone https://github.com/your-username/StreamStack.git
     ```
 2. Install dependencies:
     ```bash
-    cd youtube-twitter
+    cd Frontend/ Backend
     npm install
     ```
 3. Set up environment variables.
