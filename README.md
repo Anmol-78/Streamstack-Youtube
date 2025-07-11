@@ -67,6 +67,7 @@ FRONTEND_URL = [your Frontend URL]
 VITE_BACKEND_BASE_URL = [your backend url]
 ```
 
+
 ## How to Use
 
 1. Clone the repository:
