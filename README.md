@@ -1,4 +1,4 @@
-# StreamStack Repository🎥🐦
+# Streamify Repository🎥🐦
 
 This repository houses the backend implementation for a StreamStack (YouTube-Twitter) hybrid platform. It provides functionalities like user authentication, video management, social interactions, and more.
 
